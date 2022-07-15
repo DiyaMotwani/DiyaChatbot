@@ -1,0 +1,85 @@
+What Is Data Science?
+Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models.
+The data used for analysis can come from many different sources and presented in various formats.
+Now that you know what data science is, let’s see why data science is essential to today’s IT landscape.
+What is Data Science: Lifecycle, Applications, Prerequisites and Tools
+
+Table of Contents
+What Is Data Science?
+The Data Science Lifecycle
+Prerequisites for Data Science
+What Does a Data Scientist Do?
+Why Become a Data Scientist?
+View More
+Data science is an essential part of many industries today, given the massive amounts of datathat are produced, and is one of the most debated topics in IT circles. Its popularity has grown over the years, and companies have started implementing data science techniques to grow their business and increase customer satisfaction. In this article, we’ll learn what data science is, and how you can become a data scientist.
+Are you considering a profession  
+What Is Data Science?
+Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models.
+The data used for analysis can come from many different sources and presented in various formats.
+Now that you know what data science is, let’s see why data science is essential to ttoday’s IT landscape.
+The Data Science Lifecycle
+Now that you know what is data science, next up let us focus on the data science lifecycle. Data science’s lifecycle consists of five distinct stages, each with its own tasks:
+1. Capture: Data Acquisition, Data Entry, Signal Reception, Data Extraction. This stage involves gathering raw structured and unstructured data.
+2. Maintain: Data Warehousing, Data Cleansing, Data Staging, Data Processing, Data Architecture. This stage covers taking the raw data and putting it in a form that can be used.
+3. Process: Data Mining, Clustering/Classification, Data Modeling, Data Summarization. Data scientists take the prepared data and examine its patterns, ranges, and biases to determine how useful it will be in predictive analysis.
+4. Analyze: Exploratory/Confirmatory, Predictive Analysis, Regression, Text Mining, Qualitative Analysis. Here is the real meat of the lifecycle. This stage involves performing the various analyses on the data.
+5. Communicate: Data Reporting, Data Visualization, Business Intelligence, Decision Making. In this final step, analysts prepare the analyses in easily readable forms such as charts, graphs, and reports.
+Prerequisites for Data Science
+Here are some of the technical concepts you should know about before starting to learn what is data science.
+1. Machine Learning
+Machine learning is the backbone of data science. Data Scientists need to have a solid grasp of ML in addition to basic knowledge of statistics.
+2. Modeling
+Mathematical models enable you to make quick calculations and predictions based on what you already know about the data. Modeling is also a part of Machine Learning and involves identifying which algorithm is the most suitable to solve a given problem and how to train these models.
+3. Statistics
+Statistics are at the core of data science. A sturdy handle on statistics can help you extract more intelligence and obtain more meaningful results.
+4. Programming
+Some level of programming is required to execute a successful data science project. The most common programming languages are Python, and R. Python is especially popular because it’s easy to learn, and it supports multiple libraries for data science and ML.
+5. Databases
+A capable data scientist needs to understand how databases work, how to manage them, and how to extract data from them
+What Does a Data Scientist Do?
+You know what is data science, and you must be wondering what exactly is this job role like - here's the answer. A data scientist analyzes business data to extract meaningful insights. In other words, a data scientist solves business problems through a series of steps, including:
+* Before tackling the data collection and analysis, the data scientist determines the problem by asking the right questions and gaining understanding.
+* The data scientist then determines the correct set of variables and data sets.
+* The data scientist gathers structured and unstructured data from many disparate sources—enterprise data, public data, etc.
+* Once the data is collected, the data scientist processes the raw data and converts it into a format suitable for analysis. This involves cleaning and validating the data to guarantee uniformity, completeness, and accuracy.
+* After the data has been rendered into a usable form, it’s fed into the analytic system—ML algorithm or a statistical model. This is where the data scientists analyze and identify patterns and trends.
+* When the data has been completely rendered, the data scientist interprets the data to find opportunities and solutions.
+* The data scientists finish the task by preparing the results and insights to share with the appropriate stakeholders and communicating the results.
+Now we should be aware of some machine learning algorithms which are beneficial in understanding data science clearly.
+Why Become a Data Scientist?
+You learnt what is data science. Did it sound exciting? Here's another solid reason why you should pursue data science as your work-field. According to Glassdoor and Forbes, demand for data scientists will increase by 28 percent by 2026, which speaks of the profession’s durability and longevity, so if you want a secure career, data science offers you that chance.
+Furthermore, the profession of data scientist came in second place in the Best Jobs in America for 2021 survey, with an average base salary of USD 127,500.
+So, if you’re looking for an exciting career that offers stability and generous compensation, then look no further!
+Read more: Data Scientist Salary In India and US
+Where Do You Fit in Data Science?
+Data science offers you the opportunity to focus on and specialize in one aspect of the field. Here’s a sample of different ways you can fit into this exciting, fast-growing field.
+Data Scientist
+* Job role: Determine what the problem is, what questions need answers, and where to find the data. Also, they mine, clean, and present the relevant data.
+* Skills needed: Programming skills (SAS, R, Python), storytelling and data visualization, statistical and mathematical skills, knowledge of Hadoop, SQL, and Machine Learning.
+Data Analyst
+* Job role: Analysts bridge the gap between the data scientists and the business analysts, organizing and analyzing data to answer the questions the organization poses. They take the technical analyses and turn them into qualitative action items.
+* Skills needed: Statistical and mathematical skills, programming skills (SAS, R, Python), plus experience in data wrangling and data visualization.
+Data Engineer
+* Job role: Data engineers focus on developing, deploying, managing, and optimizing the organization’s data infrastructure and data pipelines. Engineers support data scientists by helping to transfer and transform data for queries.
+* Skills needed: NoSQL databases (e.g., MongoDB, Cassandra DB), programming languages such as Java and Scala, and frameworks (Apache Hadoop).
+Data Science Tools
+The data science profession is challenging, but fortunately, there are plenty of tools available to help the data scientist succeed at their job.
+* Data Analysis: SAS, Jupyter, R Studio, MATLAB, Excel, RapidMiner
+* Data Warehousing: Informatica/ Talend, AWS Redshift
+* Data Visualization: Jupyter, Tableau, Cognos, RAW
+* Machine Learning: Spark MLib, Mahout, Azure ML studio 
+Difference Between Business Intelligence and Data Science
+You know what is data science, next up know the difference between business intelligence and data science, and know why you can't use it interchangeably. Business intelligence is a combination of the strategies and technologies used for the analysis of business data/information. Like data science, it can provide historical, current, and predictive views of business operations. However, there are some key differences.
+Business Intelligence
+Data Science
+Uses structured data
+Uses both structured and unstructured data
+Analytical in nature - provides a historical report of the data
+Scientific in nature - perform an in-depth statistical analysis on the data 
+Use of basic statistics with emphasis on visualization (dashboards, reports)
+Leverages more sophisticated statistical and predictive analysis and machine learning (ML)
+Compares historical data to current data to identify trends
+Combines historical and current data to predict future performance and outcomes
+
+
+
